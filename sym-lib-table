@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Dos_Controller")(type "KiCad")(uri "${KIPRJMOD}/Dos_Controller.kicad_sym")(options "")(descr ""))
+)
