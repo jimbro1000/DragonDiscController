@@ -1,10 +1,10 @@
-* Dragon 32/64 Disk Controller Card *
+# Dragon 32/64 Disk Controller Card #
 
 This project contains the design and build
 documents for a recreation of the DragonDos
 disc controller
 
-** Design **
+## Design ##
 
 The schematics use a WDC WD2797 disc controller
 IC as the core of the board, this is consistent
@@ -17,7 +17,7 @@ surface mount parts are of the largest versions
 available to try and make the assembly of the
 board feasible for hand soldering
 
-** Progress **
+## Progress ##
 
 In the current state the board is untested
 
@@ -27,7 +27,7 @@ this won't change the functionality and should
 significantly reduce the size of the board, and
 hence the cost of fabrication
 
-** Assembly and BoM **
+## Assembly and BoM ##
 
 Until the board progresses to a point where it
 can be tested the assembly instructions and the
