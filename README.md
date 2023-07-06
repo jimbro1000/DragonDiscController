@@ -3,6 +3,7 @@
 This project contains the design and build
 documents for a recreation of the DragonDos
 disc controller
+![render of controller pdb](./d32_disk_controller.png)
 
 ## Design ##
 
