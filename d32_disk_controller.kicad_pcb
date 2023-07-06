@@ -8,7 +8,7 @@
   (title_block
     (title "Dragon 32/64 Disk Controller")
     (date "2023-07-06")
-    (rev "V0.0.2")
+    (rev "V0.0.3-draft")
   )
 
   (layers
@@ -2234,7 +2234,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp ec710f46-6cb9-4216-8f32-a7375a37be88))
   (gr_line (start 63.6524 110.4392) (end 64.2112 110.4392)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f71fa103-fc4d-4c5b-8875-4160074d57fe))
-  (gr_text "V0.0.2-draft" (at 130.048 51.054) (layer "F.SilkS") (tstamp 7211dba5-0e7b-4acb-8d40-a86a076e2551)
+  (gr_text "V0.0.3-draft" (at 130.048 51.054) (layer "F.SilkS") (tstamp 7211dba5-0e7b-4acb-8d40-a86a076e2551)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "Dragon 32/64\nDisk Controller" (at 129.794 49.022) (layer "F.SilkS") (tstamp a42dfbfd-7b0b-4220-8700-d58b75d4fdaa)

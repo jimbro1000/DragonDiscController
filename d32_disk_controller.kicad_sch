@@ -7,7 +7,7 @@
   (title_block
     (title "Dragon 32/64 Disk Controller")
     (date "2023-07-06")
-    (rev "V0.0.2-draft")
+    (rev "V0.0.3-draft")
   )
 
   (lib_symbols
