@@ -73,7 +73,7 @@ point on the board at J1. Pin 1 is connected to
 
 1. Set !Test to high (1)
 2. Strobe !MR on U2 pin 19
-3. Check that !5/8 and !DDRN are set properly. U2 pin 17 and 37
+3. Check that !5/8 and !DDEN are set properly. U2 pin 17 and 37
 4. Set !TEST to low (0)
 5. Measure pulse width on U2 Pin 29
 6. Adjust R10 until pulse width is 600ns
