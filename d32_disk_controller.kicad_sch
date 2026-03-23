@@ -11899,7 +11899,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATF1504AS-xAx44"
+		(property "Value" "ATF1502AS-xAx44"
 			(at 150.7333 54.61 0)
 			(effects
 				(font
@@ -11926,7 +11926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Microchip CPLD, 64 Macrocell, 5 V, TQFP-44"
+		(property "Description" "Microchip CPLD, 32 Macrocell, 5 V, TQFP-44"
 			(at 148.59 80.01 0)
 			(effects
 				(font
